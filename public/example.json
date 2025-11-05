@@ -1,0 +1,12 @@
+{
+	"name": "Max",
+	"lastName": null,
+	"age": 33,
+	"city": "New York",
+	"address": {
+		"street": "5th Avenue",
+		"zipcode": 300077
+	},
+	"todos": ["sleep", "eat", "work", "train", "learn"],
+	"isDeveloper": true
+}
